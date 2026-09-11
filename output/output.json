@@ -1,8 +1,8 @@
 [
   {
     "domain": "postman.com",
-    "company_overview": "Postman is an API platform that simplifies the entire API lifecycle, from design and testing to deployment and monitoring, enabling teams to build, test, and manage APIs faster. It also offers AI-powered tools such as the AI Engineer and Agent Mode to automate API workflows and accelerate development.",
-    "target_audience": "Individual developers, API teams, and enterprises that build, test, and manage APIs.",
+    "company_overview": "Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
+    "target_audience": "Individual developers, engineering teams, and enterprises that build, test, and manage APIs.",
     "contact_points": [
       "info@postman.com",
       "info-jp@postman.com",
@@ -29,26 +29,20 @@
   },
   {
     "domain": "supabase.com",
-    "company_overview": "Supabase is an open‑source backend platform that provides a Postgres database, authentication, real‑time data, storage, and edge functions for developers. It offers a fully managed, scalable solution that lets teams build and deploy applications quickly without managing infrastructure.",
-    "target_audience": "Developers building web, mobile, and AI applications who need a full‑featured, Postgres‑based backend with authentication, real‑time, storage, and serverless functions. The platform also targets startup teams, innovation teams, and enterprises looking to prototype and scale quickly.",
+    "company_overview": "Supabase is a developer platform that provides a fully managed Postgres database with built‑in authentication, real‑time APIs, storage, and edge functions. It enables teams to build, prototype, and scale applications quickly without managing infrastructure.",
+    "target_audience": "Supabase targets developers, startups, innovation teams, and enterprises building AI or web applications that require a scalable Postgres backend.",
     "contact_points": [],
     "leadership": [],
     "confidence_score": 0.85
   },
   {
     "domain": "vapi.ai",
-    "company_overview": "Vapi builds a unified platform for creating, deploying, and managing voice agents that can handle customer support, lead qualification, and appointment scheduling. The platform offers enterprise‑grade scalability, security, and compliance features such as SSO, SOC 2, HIPAA, and PCI.",
-    "target_audience": "Enterprises and developers building voice AI solutions for customer support, lead qualification, appointment scheduling, and other conversational use cases at scale.",
+    "company_overview": "Vapi provides a unified platform for building, deploying, and managing voice agents that can handle customer support, lead qualification, and appointment scheduling. The platform offers real‑time monitoring, enterprise‑grade scalability, and compliance features such as SOC 2, HIPAA, and PCI.",
+    "target_audience": "Large enterprises and Fortune 100 companies that need scalable, compliant voice AI solutions for customer support, sales, and operational workflows.",
     "contact_points": [
       "Talent@vapi.ai"
     ],
-    "leadership": [
-      {
-        "name": "Jason Mitura",
-        "role": "VP of Software Development",
-        "linkedin_url": null
-      }
-    ],
-    "confidence_score": 0.9
+    "leadership": [],
+    "confidence_score": 0.8
   }
 ]
