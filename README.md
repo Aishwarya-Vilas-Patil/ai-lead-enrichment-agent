@@ -56,3 +56,8 @@ Structured Company Data
        +------> output.json
        |
        +------> output.csv
+       ## Author
+
+       **Aishwarya Patil**
+
+       LinkedIn: https://www.linkedin.com/in/aishwarya-vilas-patil/
